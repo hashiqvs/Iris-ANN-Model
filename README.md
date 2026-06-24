@@ -1,6 +1,6 @@
 #  ANN Iris Flower Classification
 
-A multi-layer Artificial Neural Network (ANN) built with TensorFlow/Keras to classify Iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — achieving **~96–100% test accuracy**.
+A multi-layer Artificial Neural Network (ANN) built with TensorFlow/Keras to classify Iris flowers into three species — Setosa, Versicolor, and Virginica — achieving **~96–100% test accuracy**.
 
 ---
 
